@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352535479479",
+    "project_id": "mecanicapp-837a7",
+    "storage_bucket": "mecanicapp-837a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352535479479:android:6f2bb2f91a302090c8b932",
+        "android_client_info": {
+          "package_name": "shifttec.mecanicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRL7KnhnFZTtXbvwWNOGayKsPhXNH-Z2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
